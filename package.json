@@ -38,6 +38,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "serve": "node local-api.js",
     "lint": "eslint --fix src/",
     "prettier": "prettier --write src/"
   },
