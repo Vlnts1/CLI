@@ -1,7 +1,7 @@
 import './code-cell.css';
 import { useEffect } from 'react';
-import { CodeEditor } from '../components/code-editor';
-import { Preview } from '../components/preview';
+import { CodeEditor } from './code-editor';
+import { Preview } from './preview';
 import { Resizable } from './resizable';
 import { Cell } from '../state';
 import { useActions } from '../hooks/use-actions';
